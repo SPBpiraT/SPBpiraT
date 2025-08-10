@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/SPBpiraT">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pirat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SPBpiraT&theme=default&hide_border=false&"/>
+  </a>
+</div>
